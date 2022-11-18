@@ -9,6 +9,7 @@ languages:
     de:
       title: BIOS Netzwerk
       categories: Kategorien
+      about: Über BIOS
 
     en:
       title: Research Network BIOS
