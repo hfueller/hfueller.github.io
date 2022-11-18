@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: http://hfueller.github.io/sitemap.xml

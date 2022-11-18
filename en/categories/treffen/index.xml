@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Treffen on Research Network BIOS</title>
+    <link>http://hfueller.github.io/en/categories/treffen/</link>
+    <description>Recent content in Treffen on Research Network BIOS</description>
+    <image>
+      <url>http://hfueller.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://hfueller.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-DE</language>
+    <lastBuildDate>Fri, 18 Nov 2022 11:30:03 +0000</lastBuildDate><atom:link href="http://hfueller.github.io/en/categories/treffen/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Network Meeting 2023</title>
+      <link>http://hfueller.github.io/en/en/posts/netzwerktreffen-2023/</link>
+      <pubDate>Fri, 18 Nov 2022 11:30:03 +0000</pubDate>
+      
+      <guid>http://hfueller.github.io/en/en/posts/netzwerktreffen-2023/</guid>
+      <description>Announcement Next Meeting Network BIOS 2023</description>
+    </item>
+    
+    <item>
+      <title>Network Meeting 2023</title>
+      <link>http://hfueller.github.io/en/posts/netzwerktreffen-2023/</link>
+      <pubDate>Fri, 18 Nov 2022 11:30:03 +0000</pubDate>
+      
+      <guid>http://hfueller.github.io/en/posts/netzwerktreffen-2023/</guid>
+      <description>Announcement Next Meeting Network BIOS 2023</description>
+    </item>
+    
+  </channel>
+</rss>
