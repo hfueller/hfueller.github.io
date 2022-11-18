@@ -2,7 +2,6 @@
 title: "Forschungsnetzwerk Bios - Technologien - Gesundheit"
 date: 2022-11-18T11:30:03+00:00
 # weight: 1
-aliases: ["/about"]
 categories: ["Info"]
 author: ["Henning", "Iris"]
 # author: ["Me", "You"] # multiple authors
