@@ -1,0 +1,4 @@
+baseURL = 'http://hfueller.github.io/'
+languageCode = 'en-us'
+title = 'BIOS Netzwerk'
+theme = 'hugo-PaperMod'
