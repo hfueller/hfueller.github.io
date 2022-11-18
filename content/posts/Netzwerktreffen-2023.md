@@ -1,7 +1,6 @@
 ---
 title: "Netzwerktreffen 2023"
 date: 2022-11-18T21:11:02+01:00
-draft: false
 ---
 # Netzwerktreffen 2023 - Rauenthal
 
