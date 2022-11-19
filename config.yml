@@ -9,13 +9,15 @@ languages:
     de:
       title: BIOS Netzwerk
       categories: Kategorien
-      about: Über BIOS
+      about: Über 
+      contact: Kontakt
 
     en:
       title: Research Network BIOS
       categories: categories
       tags: tags
       about: about
+      contact: contact
 
 enableRobotsTXT: true
 buildDrafts: false
@@ -115,10 +117,6 @@ menu:
       name: About
       url: /about/
       weight: 30
-    - contact: contact
-      name: Kontakt
-      url: /contact/
-      weight: 40
 
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true

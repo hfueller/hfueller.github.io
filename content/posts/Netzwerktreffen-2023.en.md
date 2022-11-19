@@ -38,4 +38,4 @@ editPost:
 ---
 
 
-We will gather June 14 - June 16 in [KuTa Rauenthal](https://www.kuta-rauenthal.de) (near Wiesbaden).
+We will get together June 14 - June 16 2023 in [KuTa Rauenthal](https://www.kuta-rauenthal.de) (near Wiesbaden).
