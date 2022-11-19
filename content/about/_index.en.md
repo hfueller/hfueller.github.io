@@ -36,7 +36,7 @@ Ziel des Netzwerkes ist es, gegenwärtige Formen der Neuverhandlung des Lebens z
 Im Netzwerk arbeiten Geograph_innen, Anthropolog_innen und Ethnolog_innen aus dem deutschsprachigen Raum interdisziplinär zusammen. Es schließt eine Lücke, in dem es erstmals eine Vernetzung im thematischen Spannungsfeld zwischen "Bios – Technologien – Gesundheit" zwischen Geographie und Anthropologie/Ethnologie schafft.
 
 ## Contacts
-You are very welcome to take part in the network or to aks for further information.
+You are very welcome to take part in the network or to ask for further information.
 
 Please get in touch: 
 
